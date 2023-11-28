@@ -1,5 +1,7 @@
 @import"./global.css";
 
+
+
 * {
     margin: 0;
     padding: 0;
@@ -18,7 +20,7 @@
 .header-content h1 {
     max-width: 482px;
     color: var(--White, #FFF);
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 54px;
     font-style: normal;
     font-weight: 600;
@@ -28,7 +30,7 @@
 .header-content p {
     max-width: 412px;
     color: var(--White, #FFF);
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -74,7 +76,7 @@
 
 .btn-right a {
     color: var(--White, #FFF);
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -122,7 +124,7 @@
 .liner h2 {
     max-width: 313px;
     color: var(--White, #FFF);
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 24px;
     font-style: normal;
     font-weight: 600;
@@ -134,7 +136,7 @@
 .liner p {
     max-width: 243px;
     color: var(--White, #FFF);
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -150,7 +152,7 @@
 
 .liner button a {
     color: var(--Yellow, #FCD980);
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -167,7 +169,7 @@
 .liner-right h2 {
     max-width: 213px;
     color: var(--White, #FFF);
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 24px;
     font-style: normal;
     font-weight: 600;
@@ -178,7 +180,7 @@
 
 .liner-right button a {
     color: var(--Yellow, #FCD980);
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -198,7 +200,7 @@
     width: 419px;
     color: var(--Dark-blue, #282938);
     text-align: center;
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -211,7 +213,7 @@
     max-width: 530px;
     color: var(--Dark-blue, #282938);
     text-align: center;
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 48px;
     font-style: normal;
     font-weight: 600;
@@ -245,7 +247,7 @@
 
 .contents h2 {
     color: var(--Dark-blue, #282938);
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 24px;
     font-style: normal;
     font-weight: 500;
@@ -257,7 +259,7 @@
 .contents p {
     max-width: 324.079px;
     color: var(--Dark-blue, #282938);
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -282,7 +284,7 @@
 .client h2 {
     max-width: 327px;
     color: var(--Dark-blue, #282938);
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 38px;
     font-style: normal;
     font-weight: 600;
@@ -293,7 +295,7 @@
 .client h3 {
     max-width: 743px;
     color: var(--Dark-blue, #282938);
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 32px;
     font-style: normal;
     font-weight: 500;
@@ -304,7 +306,7 @@
 .client p {
     max-width: 327px;
     color: var(--Dark-blue, #282938);
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 16px;
     font-style: normal;
     font-weight: 400;

@@ -4,7 +4,7 @@
     max-width: 800px;
     color: var(--Dark-blue, #282938);
     text-align: center;
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 48px;
     font-weight: 600;
     line-height: 64px;
@@ -16,7 +16,7 @@
     max-width: 422px;
     color: var(--Dark-blue, #282938);
     text-align: center;
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 16px;
     font-weight: 500;
     line-height: 28px;
@@ -32,7 +32,7 @@
 
 form label {
     color: #000;
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
