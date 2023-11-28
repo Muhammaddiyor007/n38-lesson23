@@ -1,8 +1,13 @@
-@import'https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;1,300;1,400;1,500&display=swap';
+@import 'https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,400;0,600;1,300;1,400;1,500&display=swap';
 
 @font-face {
     font-family: 'Poppins';
     src: url(../fonts/Poppins-ExtraLight.ttf);
+}
+
+@font-face {
+    font-family: Manrope;
+    src: url(../fonts/Manrope-Light.ttf);
 }
 
 * {
@@ -57,7 +62,7 @@ nav a {
     height: 29.909px;
     flex-shrink: 0;
     color: #BBBBCB;
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -103,7 +108,7 @@ footer {
 .footer-content {
     max-width: 329px;
     color: var(--White, #FFF);
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 16px;
     font-style: normal;
     font-weight: 500;
@@ -133,7 +138,7 @@ footer {
 
 .contact h5 {
     color: var(--Dark-blue, #282938);
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 18px;
     font-style: normal;
     font-weight: 500;
@@ -142,7 +147,7 @@ footer {
 
 .footer-right h2 {
     color: #FFF;
-    font-family: Poppins;
+    font-family: 'Poppins';
     font-size: 48px;
     font-style: normal;
     font-weight: 600;
