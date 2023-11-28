@@ -1,0 +1,149 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #1C1E53;
+}
+
+.btn-primary {
+    background-color: transparent;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: transparent;
+
+}
+
+.container {
+    padding-top: 33px;
+    padding-bottom: 33px;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+}
+
+.nav-list {
+    display: flex;
+    gap: 40px;
+    align-items: center;
+
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    gap: 40px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+.nav-item {
+    width: 72px;
+    height: 29.909px;
+    flex-shrink: 0;
+    color: #BBBBCB;
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    text-decoration: none;
+}
+
+.nav-item:hover {
+    color: white;
+}
+
+.navbar-btn {
+    width: 185px;
+    height: 60px;
+    flex-shrink: 0;
+    border-radius: 41px;
+    border: 2px solid rgba(244, 246, 252, 0.20);
+    background-color: transparent;
+    margin-top: -15px;
+
+
+}
+
+.navbar-btn:hover {
+    background: #FCD980;
+}
+
+.navbar-btn a {
+    color: white;
+}
+
+.footer {
+    display: flex;
+    gap: 142px;
+}
+
+footer {
+    background-color: #1C1E53;
+    padding-top: 104px;
+    padding-bottom: 92px;
+}
+
+.footer-content {
+    max-width: 329px;
+    color: var(--White, #FFF);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    opacity: 0.8;
+    padding-top: 24px;
+}
+
+.contact {
+    width: 517px;
+    height: 95px;
+    flex-shrink: 0;
+    background: var(--Yellow, #FCD980);
+    margin-top: 85px;
+    display: flex;
+    gap: 30px;
+}
+
+.email {
+    margin-left: 37px;
+    padding-top: 18px;
+}
+
+.tell {
+    padding-top: 18px;
+}
+
+.contact h5 {
+    color: var(--Dark-blue, #282938);
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 32px;
+}
+
+.footer-right h2 {
+    color: #FFF;
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 64px;
+}
+
+.icons {
+    display: flex;
+    gap: 25px;
+    padding-top: 28px;
+}

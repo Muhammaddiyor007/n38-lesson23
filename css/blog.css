@@ -1,0 +1,121 @@
+@import"./global.css";
+
+.blog-title h1 {
+    max-width: 800px;
+    color: var(--Dark-blue, #282938);
+    margin: auto;
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    padding-top: 128px;
+
+}
+
+.blog-title p {
+    color: var(--Dark-blue, #282938);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    padding-top: 16px;
+    padding-bottom: 32px;
+}
+
+.blog-img img {
+    width: 100%;
+}
+
+.img-content {
+    max-width: 640px;
+    color: var(--Dark-blue, #282938);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    padding-top: 16px;
+    padding-bottom: 32px;
+    margin: auto;
+    padding-top: 48px;
+}
+
+.content-more a {
+    color: var(--Royal-Blue, #2405F2);
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    text-decoration: none;
+
+}
+
+.content-more {
+    padding-bottom: 64px;
+}
+
+.our-blog {
+    color: var(--Dark-blue, #282938);
+    font-family: Poppins;
+    text-align: center;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 64px;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 64px;
+}
+
+.top-left {
+    width: 405px;
+    height: 593px;
+}
+
+.blogs p {
+    color: var(--Dark-blue, #282938);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    opacity: 0.7;
+    padding-top: 32px;
+}
+
+.blogs h4 {
+    max-width: 344px;
+    color: var(--Dark-blue, #282938);
+    font-family: Poppins;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 36px;
+}
+
+.blogs button {
+    border: none;
+    background-color: transparent;
+}
+
+.blogs button a {
+    color: var(--Tint-blue, #1C1E53);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+    text-decoration: none;
+}
+
+.blogs {
+    padding-bottom: 128px;
+}
+
+.blogs button img {
+    margin-left: 12px;
+}

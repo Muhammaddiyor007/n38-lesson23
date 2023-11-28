@@ -1,0 +1,109 @@
+@import"./global.css";
+
+.contact-title h1 {
+    max-width: 800px;
+    color: var(--Dark-blue, #282938);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 600;
+    line-height: 64px;
+    padding-top: 128px;
+
+}
+
+.contact-title p {
+    max-width: 422px;
+    color: var(--Dark-blue, #282938);
+    text-align: center;
+    font-family: Poppins;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    padding-top: 16px;
+    padding-bottom: 32px;
+}
+
+.register {
+    border-radius: 12px;
+    background: var(--Grey, #F4F6FC);
+    padding-bottom: 85px;
+}
+
+form label {
+    color: #000;
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 32px;
+}
+
+.name-email {
+    margin-left: 77px;
+    padding-top: 55px;
+    display: flex;
+    gap: 64px;
+}
+
+.name {
+    display: inline-block;
+}
+
+.email {
+    margin-top: -15px;
+}
+
+input {
+    width: 400px;
+    display: inline-flex;
+    padding: 18px 32px;
+    align-items: flex-start;
+    gap: 10px;
+    border-radius: 8px;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    background-color: transparent;
+}
+
+.massage {
+    margin-left: 77px;
+    padding-top: 16px;
+}
+
+textarea {
+    display: flex;
+    width: 908px;
+    height: 138px;
+    padding: 18px 32px;
+    align-items: flex-start;
+    gap: 10px;
+    flex-shrink: 0;
+    border-radius: 8px;
+    background-color: transparent;
+}
+
+.massage button {
+    display: flex;
+    width: 254px;
+    height: 64px;
+    padding: 15px 51px;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    flex-shrink: 0;
+    border-radius: 41px;
+    background: var(--Dark-blue, #282938);
+    color: var(--Grey, #F4F6FC);
+    font-family: Manrope;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 32px;
+    margin-top: 48px;
+    border: none;
+}
+
+.massage button:hover {
+    background-color: #FCD980;
+    ;
+}
